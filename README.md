@@ -1,2 +1,4 @@
 # Dice-game
-My first Front-end project
+
+My first front-end project
+learned from Dr. Angela Yu via udemy
