@@ -1,2 +1,2 @@
 # Dice-game
-My first back-end project
+My first Front-end project
